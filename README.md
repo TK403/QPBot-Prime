@@ -58,6 +58,11 @@
 
 ## 更新履歴
 
+### v2.13.4
+
+- python-telegram-bot 20.4を導入したことにより、現行のコードを刷新しました。以下のURLの変更内容を適用しています。
+<https://github.com/python-telegram-bot/python-telegram-bot/wiki/Transition-guide-to-Version-20.0>
+
 ### v2.10.1
 
 - 開催確定は1度だけ送ることができるように変更しました。
@@ -74,7 +79,7 @@
 ### v2.7.4
 
 - python-telegram-bot 12.2.0を導入したことにより、現行のコードを刷新しました。以下のURLの変更内容を適用しています。
-https://git.io/fxJuV
+<https://git.io/fxJuV>
 
 ### v2.7.0
 
